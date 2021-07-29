@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "*",
+    "dayjs": "*",
+    "moment": "*",
+    "expo-constants": "~11.0.1",
+    "react-native-paper": "3.6.0",
+    "expo-linear-gradient": "~9.2.0",
+    "react-native-screens": "~3.4.0",
+    "@react-navigation/native": "*",
+    "react-native-vector-icons": "8.1.0",
+    "@react-navigation/bottom-tabs": "*",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-vector-icons/Ionicons": "*"
+  }
+}
